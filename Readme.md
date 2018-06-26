@@ -10,7 +10,7 @@
 - PyQT 5
 - Pytorch 0.3
 - OpenCV 3.2
-- Python
+- Python 3.6
 
 # CycleGAN
 - CycleGAN은 Unpaired Dataset에 대한 Style transfer 기술이다. 
