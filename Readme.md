@@ -9,8 +9,12 @@
 ### 개발 환경
 - PyQT 5
 - Pytorch 0.3
-- OpenCV 3.2
+- torchvision 0.4
 - Python 3.6
+- Ubuntu16.04
+
+### 개발 환경 설치
+
 
 # CycleGAN
 - CycleGAN은 Unpaired Dataset에 대한 Style transfer 기술이다. 
